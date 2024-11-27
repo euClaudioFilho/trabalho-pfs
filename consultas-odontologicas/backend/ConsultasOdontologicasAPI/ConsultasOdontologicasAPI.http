@@ -1,0 +1,6 @@
+@ConsultasOdontologicasAPI_HostAddress = http://localhost:5112
+
+GET {{ConsultasOdontologicasAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
